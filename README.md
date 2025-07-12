@@ -4,7 +4,7 @@
 A learning management system is an application that is
 helpful within the administration hierarchy of a university; it aids the documentation,
 tracking, lecture and delivery of academic courses, coaching programs, or other education
-and development programs.
+and development programs. 
 
 This application currently consists of three (3) actors
 `lecturer`, `student` and `admin`
